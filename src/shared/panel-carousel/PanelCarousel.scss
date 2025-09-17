@@ -1,0 +1,8 @@
+.panel-carousel {
+  display: flex;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  gap: 1rem;
+  padding: 1rem;
+  background-color: var(--background);
+}

@@ -1,4 +1,4 @@
-import { Header } from "@/shared/Header"
+import { Header } from "@/shared/header/Header"
 import "./Home.scss";
 
 export const Home = () => {
