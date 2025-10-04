@@ -1,0 +1,14 @@
+.header {
+    display: flex;
+    justify-content: right;
+}
+
+.header-controls {
+    display: flex;
+    justify-content: space-between;
+    width: max-content;
+
+    :link {
+        margin-left: 20px;
+    }
+}
